@@ -13,6 +13,8 @@ Each row of this table contains the id and the name of an employee in a company.
 
 <p>&nbsp;</p>
 
+<p><a href="https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/solutions/4647933/1378-replace-employeeid-with-the-unique-identifier-sql/" >Leetcode Solution explanation link</a> </p>
+
 <p>Table: <code>EmployeeUNI</code></p>
 
 <pre>
