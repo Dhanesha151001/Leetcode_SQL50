@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/product-sales-analysis-i">Product Sales Analysis I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
 <a href="https://leetcode.com/problems/product-sales-analysis-i/solutions/4653523/1153-product-sales-analysis/">My Leetcode Solution Explanation </a>
-<hr>
+<br>
 <p>Table: <code>Sales</code></p>
 
 
