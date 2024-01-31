@@ -6,6 +6,8 @@ WHERE T.visit_id IS NULL
 GROUP BY customer_id
 ORDER BY count_no_trans DESC;
 
+
+
 <!-- There is another way to solve the problem using NOT IN method; --> 
 SELECT customer_id, COUNT(*) as count_no_trans
 FROM Visits
