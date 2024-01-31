@@ -1,4 +1,7 @@
-<h2><a href="https://leetcode.com/problems/rising-temperature">Rising Temperature</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Weather</code></p>
+<h2><a href="https://leetcode.com/problems/rising-temperature">Rising Temperature</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+<a href="https://leetcode.com/problems/rising-temperature/solutions/4654681/197-rising-temperature/">My Leetcode Solution Explanation</a>
+<p>&nbsp;</p>
+<p>Table: <code>Weather</code></p>
 
 <pre>
 +---------------+---------+
