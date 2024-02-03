@@ -1,4 +1,7 @@
-<h2><a href="https://leetcode.com/problems/average-time-of-process-per-machine">Average Time of Process per Machine</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Activity</code></p>
+<h2><a href="https://leetcode.com/problems/average-time-of-process-per-machine">Average Time of Process per Machine</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+<a href="https://leetcode.com/problems/average-time-of-process-per-machine/solutions/4669762/1661-1801-average-time-of-process-per-machine/">Leetcode Solution Explanation</a>
+<p>&nbsp;</p>
+<p>Table: <code>Activity</code></p>
 
 <pre>
 +----------------+---------+
