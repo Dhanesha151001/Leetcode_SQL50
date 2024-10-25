@@ -10,9 +10,9 @@
 id is the primary key (column with unique values) for this table.
 Each row of this table contains the id and the name of an employee in a company.
 </pre>
+
 <p>&nbsp;</p>
-<a href="https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/solutions/4647933/1378-replace-employeeid-with-the-unique-identifier-sql/" target="_blank">Explanation of my leetcode solution</a>
-<p>&nbsp;</p>
+
 <p>Table: <code>EmployeeUNI</code></p>
 
 <pre>
