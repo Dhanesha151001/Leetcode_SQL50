@@ -1,7 +1,4 @@
-<h2><a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions">Customer Who Visited but Did Not Make Any Transactions</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
-
-<a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/solutions/4654005/1581-customer-who-visited-but-did-not-make-any-transactions/">My Leetcode Solution Submission</a><p>&nbsp;</p>
-<p>Table: <code>Visits</code></p>
+<h2><a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions">Customer Who Visited but Did Not Make Any Transactions</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Visits</code></p>
 
 <pre>
 +-------------+---------+
