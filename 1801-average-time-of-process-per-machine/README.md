@@ -1,7 +1,4 @@
-<h2><a href="https://leetcode.com/problems/average-time-of-process-per-machine">Average Time of Process per Machine</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
-<a href="https://leetcode.com/problems/average-time-of-process-per-machine/solutions/4669762/1661-1801-average-time-of-process-per-machine/">Leetcode Solution Explanation</a>
-<p>&nbsp;</p>
-<p>Table: <code>Activity</code></p>
+<h2><a href="https://leetcode.com/problems/average-time-of-process-per-machine">Average Time of Process per Machine</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Activity</code></p>
 
 <pre>
 +----------------+---------+
@@ -19,7 +16,9 @@ process_id is the ID of a process running on the machine with ID machine_id.
 activity_type is an ENUM (category) of type (&#39;start&#39;, &#39;end&#39;).
 timestamp is a float representing the current time in seconds.
 &#39;start&#39; means the machine starts the process at the given timestamp and &#39;end&#39; means the machine ends the process at the given timestamp.
-The &#39;start&#39; timestamp will always be before the &#39;end&#39; timestamp for every (machine_id, process_id) pair.</pre>
+The &#39;start&#39; timestamp will always be before the &#39;end&#39; timestamp for every (machine_id, process_id) pair.
+It is guaranteed that each (machine_id, process_id) pair has a &#39;start&#39; and &#39;end&#39; timestamp.
+</pre>
 
 <p>&nbsp;</p>
 
